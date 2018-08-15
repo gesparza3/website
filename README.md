@@ -1,3 +1,3 @@
-# Website
+# Website for SWC
 
-Example git repository
+This website was created on August 15, 2018
